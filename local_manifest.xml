@@ -2,11 +2,10 @@
 <manifest>
 
  <!-- Trees -->
- <project path="device/xiaomi/sdm845-common" name="RahulGorai0206/device_xiaomi_beryllium-common.git" remote="github" revision="thirteen-wip" />
- <project path="device/xiaomi/beryllium" name="RahulGorai0206/device_xiaomi_beryllium.git" remote="github" revision="test" />
+ <project path="device/xiaomi/sdm845-common" name="RahulGorai0206/device_xiaomi_beryllium-common.git" remote="github" revision="rom" />
+ <project path="device/xiaomi/beryllium" name="RahulGorai0206/device_xiaomi_beryllium.git" remote="github" revision="rom" />
  <project path="vendor/xiaomi" name="RahulGorai0206/vendor_xiaomi.git" remote="github" revision="thirteen" />
  <project path="kernel/xiaomi/sdm845" name="PainKiller3/kernel_xiaomi_sdm845.git" remote="github" revision="thirteen" />
- <project path="hardware/xiaomi" name="Spark-Rom/hardware_xiaomi.git" remote="github" revision="pyro" />
  
  <!-- MiCam -->
  <project path="packages/apps/memecam" name="RahulGorai0206/packages_apps_memecam.git" remote="gitlab" revision="main" />
