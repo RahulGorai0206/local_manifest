@@ -2,14 +2,14 @@
 <manifest>
 
 <remote name="gitlab" fetch="https://gitlab.com/RahulGorai0206" />
-<remote name="github" fetch="https://github.com/RahulGorai0206" />
+<remote name="mine" fetch="https://github.com/RahulGorai0206" />
 <remote name="kernel" fetch="https://github.com/PainKiller3" />
 <remote name="clang" fetch="https://github.com/kdrag0n" />
 
  <!-- Trees -->
- <project path="device/xiaomi/sdm845-common" name="device_xiaomi_beryllium-common" remote="github" revision="rom" />
- <project path="device/xiaomi/beryllium" name="device_xiaomi_beryllium" remote="github" revision="rom" />
- <project path="vendor/xiaomi" name="vendor_xiaomi" remote="github" revision="thirteen" />
+ <project path="device/xiaomi/sdm845-common" name="device_xiaomi_beryllium-common" remote="mine" revision="rom" />
+ <project path="device/xiaomi/beryllium" name="device_xiaomi_beryllium" remote="mine" revision="rom" />
+ <project path="vendor/xiaomi" name="vendor_xiaomi" remote="mine" revision="thirteen" />
  <project path="kernel/xiaomi/sdm845" name="kernel_xiaomi_sdm845" remote="kernel" revision="thirteen" clone-depth="1"/>
  
  <!-- MiCam -->
