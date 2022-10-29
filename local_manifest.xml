@@ -8,7 +8,7 @@
  <project path="kernel/xiaomi/sdm845" name="PainKiller3/kernel_xiaomi_sdm845.git" remote="github" revision="thirteen" />
  
  <!-- MiCam -->
- <project path="packages/apps/memecam" name="RahulGorai0206/packages_apps_memecam.git" remote="gitlab" revision="main" />
+ <project path="packages/apps/memecam" name="RahulGorai0206/packages_apps_memecam.git" remote="https://gitlab.com" revision="main" />
  <!-- Clang -->
  <project path="prebuilts/clang/host/linux-x86/clang-proton" name="kdrag0n/proton-clang.git" remote="github" revision="master" />
 </manifest>
