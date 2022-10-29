@@ -7,13 +7,13 @@
 <remote name="clang" fetch="https://github.com/kdrag0n" />
 
  <!-- Trees -->
- <project path="device/xiaomi/sdm845-common" name="device_xiaomi_beryllium-common.git" remote="github" revision="rom" />
- <project path="device/xiaomi/beryllium" name="device_xiaomi_beryllium.git" remote="github" revision="rom" />
- <project path="vendor/xiaomi" name="vendor_xiaomi.git" remote="github" revision="thirteen" />
- <project path="kernel/xiaomi/sdm845" name="kernel_xiaomi_sdm845.git" remote="kernel" revision="thirteen" />
+ <project path="device/xiaomi/sdm845-common" name="device_xiaomi_beryllium-common" remote="github" revision="rom" />
+ <project path="device/xiaomi/beryllium" name="device_xiaomi_beryllium" remote="github" revision="rom" />
+ <project path="vendor/xiaomi" name="vendor_xiaomi" remote="github" revision="thirteen" />
+ <project path="kernel/xiaomi/sdm845" name="kernel_xiaomi_sdm845" remote="kernel" revision="thirteen" />
  
  <!-- MiCam -->
- <project path="packages/apps/memecam" name="packages_apps_memecam.git" remote="gitlab" revision="main" />
+ <project path="packages/apps/memecam" name="packages_apps_memecam" remote="gitlab" revision="main" />
  <!-- Clang -->
- <project path="prebuilts/clang/host/linux-x86/clang-proton" name="proton-clang.git" remote="clang" revision="master" />
+ <project path="prebuilts/clang/host/linux-x86/clang-proton" name="proton-clang" remote="clang" revision="master" />
 </manifest>
