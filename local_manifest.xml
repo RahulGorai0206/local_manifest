@@ -13,7 +13,7 @@
 
  
 <!-- Trees -->
-<project path="device/xiaomi/sdm845-common" name="device_xiaomi_beryllium-common" remote="mine" revision="rom" />
+<project path="device/xiaomi/sdm845-common" name="device_xiaomi_beryllium-common" remote="mine" revision="test" />
 
 <project path="device/xiaomi/beryllium" name="device_xiaomi_beryllium" remote="mine" revision="rom" />
 
