@@ -3,7 +3,7 @@
 <manifest>
 
 
-<remote name="gitlab" fetch="https://gitlab.com/RahulGorai0206" />
+<remote name="gitab" fetch="https://gitlab.com/RahulGorai0206" />
  
 <remote name="mine" fetch="https://github.com/RahulGorai0206" />
 
@@ -23,7 +23,7 @@
  
 
 <!-- MiCam -->
-<project path="packages/apps/memecam" name="packages_apps_memecam" remote="gitlab" revision="main" />
+<project path="packages/apps/memecam" name="packages_apps_memecam" remote="gitab" revision="main" />
  
  
 <!-- Clang -->
