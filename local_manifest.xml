@@ -3,13 +3,13 @@
 <manifest>
 
 
-<remote name="gitab" fetch="https://gitlab.com/RahulGorai0206" />
+<remote name="cam" fetch="https://gitlab.com/RahulGorai0206" />
  
 <remote name="mine" fetch="https://github.com/RahulGorai0206" />
 
-<remote name="kernel" fetch="https://github.com/PainKiller3" />
-
 <remote name="clang" fetch="https://github.com/kdrag0n" />
+
+<remote name="kernel" fetch="https://github.com/Krtonia" />
 
  
 <!-- Trees -->
@@ -19,11 +19,11 @@
 
 <project path="vendor/xiaomi" name="vendor_xiaomi" remote="mine" revision="test" />
 
-<project path="kernel/xiaomi/sdm845" name="kernel_xiaomi_sdm845" remote="kernel" revision="thirteen" />
+<project path="kernel/xiaomi/sdm845" name="kawaii_kernel_sdm845" remote="kernel" revision="13" />
  
 
 <!-- MiCam -->
-<project path="packages/apps/memecam" name="packages_apps_memecam" remote="gitab" revision="main" />
+<project path="packages/apps/memecam" name="packages_apps_memecam" remote="cam" revision="main" />
  
  
 <!-- Clang -->
