@@ -7,9 +7,12 @@
  
 <remote name="mine" fetch="https://github.com/RahulGorai0206" />
 
-<remote name="clang" fetch="https://github.com/kdrag0n" />
+<!-- <remote name="clang" fetch="https://github.com/kdrag0n" /> -->
 
 <remote name="kernel" fetch="https://github.com/Krtonia" />
+
+<remote name="ImSurajxD"
+          fetch="https://gitlab.com/ImSurajxD" />
 
  
 <!-- Trees -->
@@ -27,7 +30,8 @@
  
  
 <!-- Clang -->
-<project path="prebuilts/clang/host/linux-x86/clang-proton" name="proton-clang" remote="clang" revision="master" />
+<!-- <project path="prebuilts/clang/host/linux-x86/clang-proton" name="proton-clang" remote="clang" revision="master" /> -->
+<project path="prebuilts/clang/host/linux-x86/clang-r450784d" name="clang-r450784d" remote="ImSurajxD" revision="master" />
  
 
 </manifest>
