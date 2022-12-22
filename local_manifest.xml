@@ -7,7 +7,7 @@
  
 <remote name="mine" fetch="https://github.com/RahulGorai0206" />
 
-<!-- <remote name="clang" fetch="https://github.com/kdrag0n" /> -->
+<remote name="clang" fetch="https://github.com/kdrag0n" />
 
 <remote name="kernel" fetch="https://github.com/Krtonia" />
 
