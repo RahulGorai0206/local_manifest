@@ -16,11 +16,11 @@
 
  
 <!-- Trees -->
-<project path="device/xiaomi/sdm845-common" name="device_xiaomi_beryllium-common" remote="mine" revision="test" />
+<project path="device/xiaomi/sdm845-common" name="device_xiaomi_beryllium-common" remote="mine" revision="thirteen" />
 
 <project path="device/xiaomi/beryllium" name="device_xiaomi_beryllium" remote="mine" revision="test" />
 
-<project path="vendor/xiaomi" name="vendor_xiaomi" remote="mine" revision="test" />
+<project path="vendor/xiaomi" name="vendor_xiaomi" remote="mine" revision="thirteen" />
 
 <project path="kernel/xiaomi/sdm845" name="kawaii_kernel_sdm845" remote="kernel" revision="13" />
  
